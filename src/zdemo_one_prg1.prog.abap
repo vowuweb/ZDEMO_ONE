@@ -4,3 +4,7 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ZDEMO_ONE_PRG1.
+
+START-OF-SELECTION.
+
+WRITE: / 'Hello world!'.
